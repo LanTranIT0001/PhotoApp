@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "username": "ngoclan", "email": "ngoclan@example.com", "description": "Sinh viên CNTT kinh doanh, thích làm sản phẩm số.", "avatar_url": "https://i.pravatar.cc/300?img=1", "hobby": "Nghe nhạc, thiết kế web" },
+    { "id": 2, "username": "minhdat", "email": "minhkhoa@example.com", "description": "Lập trình viên Android năm 3.", "avatar_url": "https://i.pravatar.cc/300?img=2", "hobby": "Đá bóng, chơi game" },
+    { "id": 3, "username": "bichtran", "email": "thuha@example.com", "description": "Thích phân tích dữ liệu và vẽ dashboard.", "avatar_url": "https://i.pravatar.cc/300?img=3", "hobby": "Đọc sách, chụp ảnh" },
+    { "id": 4, "username": "quanghuy", "email": "quanghuy@example.com", "description": "Quan tâm bảo mật và mạng máy tính.", "avatar_url": "https://i.pravatar.cc/300?img=4", "hobby": "Chạy bộ, cờ vua" },
+    { "id": 5, "username": "baotran", "email": "baotran@example.com", "description": "Hay tham gia hoạt động Đoàn - Hội.", "avatar_url": "https://i.pravatar.cc/300?img=5", "hobby": "Nấu ăn, du lịch" },
+    { "id": 6, "username": "anhthu", "email": "anhthu@example.com", "description": "Đam mê UI/UX.", "avatar_url": "https://i.pravatar.cc/300?img=6", "hobby": "Vẽ, xem phim" }
+  ]
+}
