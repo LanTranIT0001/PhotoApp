@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": 1, "username": "ngoclan", "email": "ngoclan@example.com", "description": "Sinh viên CNTT kinh doanh, thích làm sản phẩm số.", "avatar_url": "https://i.pravatar.cc/300?img=1", "hobby": "Nghe nhạc, thiết kế web" },
+    { "id": 1, "username": "ngoclan", "email": "ngoclan@example.com", "description": "Sinh viên CNTT kinh doanh, thích làm sản phẩm số.", "avatar_url": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/709737352_2242155079923938_4624591411235273292_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=ZP0HFXw1X78Q7kNvwHO5wrX&_nc_oc=AdqvYrynLKayl_Yn5qRH5-bw_SZrdyqdmIHlG6O18xCUTS8rRxmFusRvZE_keJIYiuU&_nc_zt=23&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=-VaQAcAO-sdajhNdj2qcAg&_nc_ss=7b2a8&oh=00_AQOt0qjAgjEunarFQH_uc7ZMhwfd1ZApDJGq46YQ4j_ruQ&oe=6AC1309E", "hobby": "Nghe nhạc, thiết kế web" },
     { "id": 2, "username": "minhdat", "email": "minhkhoa@example.com", "description": "Lập trình viên Android năm 3.", "avatar_url": "https://i.pravatar.cc/300?img=2", "hobby": "Đá bóng, chơi game" },
     { "id": 3, "username": "bichtran", "email": "thuha@example.com", "description": "Thích phân tích dữ liệu và vẽ dashboard.", "avatar_url": "https://i.pravatar.cc/300?img=3", "hobby": "Đọc sách, chụp ảnh" },
     { "id": 4, "username": "quanghuy", "email": "quanghuy@example.com", "description": "Quan tâm bảo mật và mạng máy tính.", "avatar_url": "https://i.pravatar.cc/300?img=4", "hobby": "Chạy bộ, cờ vua" },
