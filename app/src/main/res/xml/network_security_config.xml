@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
+  <!-- Cho phép http:// trên mọi domain (wifi/mạng trường hay chặn hoặc redirect https) -->
+  <base-config cleartextTrafficPermitted="true">
+    <trust-anchors>
+      <certificates src="system" />
+    </trust-anchors>
+  </base-config>
+
   <domain-config cleartextTrafficPermitted="true">
-    <domain includeSubdomains="true">*</domain>
+    <domain includeSubdomains="true">raw.githubusercontent.com</domain>
+    <domain includeSubdomains="true">i.pravatar.cc</domain>
   </domain-config>
 </network-security-config>
